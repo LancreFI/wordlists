@@ -104,10 +104,11 @@ message
 mid
 mms
 modem
+ms-appdata
+ms-appx
+ms-appx-web
 ms-help
-msnim
-msrp
-msrps
+ms-resource
 ms-settings
 ms-settings-airplanemode
 ms-settings-bluetooth
@@ -126,6 +127,9 @@ ms-settings-proximity
 ms-settings-screenrotation
 ms-settings-wifi
 ms-settings-workplace
+msnim
+msrp
+msrps
 mtqp
 mumble
 mupdate
@@ -154,6 +158,7 @@ pres
 prospero
 proxy
 psyc
+pythonista
 query
 rar
 redis
@@ -183,6 +188,10 @@ snews
 snmp
 soap.beep
 soap.beeps
+socks4
+socks4a
+socks5
+socks5h
 soldat
 spotify
 ssh
@@ -195,7 +204,7 @@ stuns
 svn
 tag
 teamspeak
-tel&#58;
+tel
 telnet
 tftp
 things
@@ -205,9 +214,10 @@ tn3270
 turn
 turns
 tv
+twitter
 udp
 unreal
-urn&#58;
+urn
 ut2004
 vemmi
 ventrilo
